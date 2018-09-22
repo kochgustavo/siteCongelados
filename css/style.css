@@ -5,7 +5,10 @@
 }
 
 .slider .slides li img {
-	
   background-size: cover;
   background-position: center;
+}
+
+.margin-top-30 {
+  margin-top: -32px;
 }
